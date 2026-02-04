@@ -6,9 +6,9 @@
 
 ## Highlights
 - 📌 Best Notes
-  - <링크1>
+  - SQL 문제 풀이 모음 (./notes/sql/README.md)
 - 🧪 Projects
-  - <메인 프로젝트>: 문제 → 접근 → 결과 (링크)
+  - VC 투자 성공률 분석: 문제 → 접근 → 결과 (./projects/vc-success/README.md) → ❗업로드 예정
 
 ## Tech Stack
 - 웹 개발
