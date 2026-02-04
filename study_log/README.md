@@ -1,0 +1,3 @@
+- 학습기록: ./study_log/
+- SQL 학습기록: ./study_log/sql/
+- Projects: ./projects/
