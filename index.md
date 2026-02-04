@@ -11,8 +11,10 @@ title: "Han SoHee — Learning Log"
 
 ## 🔗 Quick Links
 - GitHub: https://github.com/ssoxxi
-- Notes: /notes/
+- Notes: /study_log/
 - Projects: /projects/
+- Snippets: /snippets/
+
 
 ## 🗓️ Latest
 - 2026-02-04: (작성 예정)
