@@ -8,7 +8,13 @@
 - 📌 Best Notes
   - SQL 문제 풀이 모음 (./notes/sql/README.md)
 - 🧪 Projects
-  - VC 투자 성공률 분석: 문제 → 접근 → 결과 (./projects/vc-success/README.md) → ❗업로드 예정
+  - [데이터분석] VC 투자 성공률 분석: 문제 → 접근 → 결과 (./projects/vc-success/README.md) → ❗업로드 예정
+  - [웹개발] comming soon ... 🎁
+
+## 🔗 Links
+- Notes: /study_log/
+- Projects: /projects/
+- Snippets: /snippets/
 
 ## Tech Stack
 - 웹 개발
