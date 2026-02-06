@@ -12,9 +12,9 @@
   - [웹개발] comming soon ... 🎁
 
 ## 🔗 Links
-- Notes: /study_log/
-- Projects: /projects/
-- Snippets: /snippets/
+- 학습기록: ./study_log/
+- Projects: ./projects/
+- Snippets: ./snippets/
 
 ## Tech Stack
 - 웹 개발
