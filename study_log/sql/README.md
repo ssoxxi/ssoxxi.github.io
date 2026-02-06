@@ -5,7 +5,7 @@
 
 ## Index
 - [Syntax Cheatsheet](./cheatsheet.md)  <!-- 나중에 만들 파일 -->
-- [Problems](./problems.md)            <!-- 나중에 만들 파일 -->
+- [Problems](./problems/README.md)            <!-- 나중에 만들 파일 -->
 - [Gotchas](../troubleshooting/)       <!-- 에러/실수 모음 연결 -->
 
 ## Template
