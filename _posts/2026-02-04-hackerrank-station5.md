@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "🏙️ HackerRank | Weather Observation Station 5"
+title: " sql | HackerRank | Weather Observation Station 5"
 date: 2026-02-04
 category: sql
 tags: [sql, practice]
