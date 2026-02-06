@@ -1,8 +1,19 @@
+---
+layout: default
+title: "SQL | HackerRank | Weather Observation Station 6"
+date: 2026-02-06
+category: sql
+tags: [sql, practice]
+excerpt: "문자열 패턴 필터링 / 중복제거"
+---
+<div class="prose">
+
+
 # 🏙️ HackerRank | Weather Observation Station 6
 
 - 📅 Date: 2026-02-06
 - 🔗 Link: https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
-- 🏷️ Topic: 문자열 패턴 필터링 / 중복제
+- 🏷️ Topic: 문자열 패턴 필터링 / 중복제거
 
 ---
 
@@ -33,7 +44,7 @@ SELECT DISTINCT CITY
   FROM STATION
  WHERE CITY REGEXP '^[aeiouAEIOU]'
  ;
-
+```
  ### 3) 나의 시도 수정 버전
  ```sql
  WITH VOWELS AS (
@@ -103,3 +114,5 @@ FROM VOWELS
   - 바깥에서 뽑을 컬럼이 CTE에 실제로 포함돼 있나?
   - WHERE가 의도한 컬럼을 보고 있나?
 - ✅ 문자열 조건 문제에서 **대소문자 normalize(LOWER/UPPER)**를 기본으로 넣기
+
+</div>
