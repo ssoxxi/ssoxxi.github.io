@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: post
 title: " sql | HackerRank | Weather Observation Station 5"
 date: 2026-02-04
 category: sql
 tags: [sql, practice]
 excerpt: "문자열 길이 / 정렬 / LIMIT"
 ---
-<div class="prose" markdown="1">
 
 
 # 🏙️ HackerRank | Weather Observation Station 5
@@ -90,4 +89,3 @@ UNION ALL
 - ✅ “최솟값/최댓값 + tie-break” 패턴 문제 3개 더 풀기
 - ✅ `GROUP BY + ORDER BY + LIMIT` 기반 Top-N 패턴 정리하기
 - ✅ `CHAR_LENGTH vs LENGTH`를 `cheatsheet.md`에 누적하기
-</div>
