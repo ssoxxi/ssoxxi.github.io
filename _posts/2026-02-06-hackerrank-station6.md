@@ -6,7 +6,7 @@ category: sql
 tags: [sql, practice]
 excerpt: "문자열 패턴 필터링 / 중복제거"
 ---
-<div class="prose">
+<div class="prose" markdown="1">
 
 
 # 🏙️ HackerRank | Weather Observation Station 6
