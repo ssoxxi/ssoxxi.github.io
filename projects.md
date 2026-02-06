@@ -7,6 +7,7 @@ permalink: /projects/
 <div class="hero">
   <h1>Projects</h1>
   <p>개인/팀 프로젝트 정리</p>
+  <h3>🚧공사중🚧</h3>
 </div>
 
 <div class="grid">
@@ -14,7 +15,6 @@ permalink: /projects/
   {% for post in items %}
     <div class="card">
       <!-- <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3> -->
-      <h3>🚧공사중🚧</h3>
       <div class="meta">
         <span>{{ post.date | date: "%Y-%m-%d" }}</span>
         {% if post.tags %}<span>#{{ post.tags | join: " #" }}</span>{% endif %}
